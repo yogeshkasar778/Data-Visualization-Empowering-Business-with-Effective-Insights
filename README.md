@@ -15,23 +15,25 @@ In this project. I worked on a project where I looked at a lot of information to
   Here's the [Online Retail sales raw data](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/blob/main/Task%201%20Framing%20the%20Business%20Scenario/Online%20Retail.xlsx)
 
 ## Business Problem:
- - Analyze 2011 monthly revenue data for seasonal trends to enhance accurate forecasting.
- - Visualize the top 10 revenue-generating countries (excluding the UK) with quantity sold insights for strategic decisions.
- - Highlight the top 10 customers by revenue, emphasizing customer retention strategies.
- - Identify regions with high product demand across all countries, excluding the UK, for an informed expansion strategy.
+ - Examine the monthly revenue data from 2011 to identify patterns related to seasons, improving our ability to predict sales accurately.
+ - Create visual representations of the top 10 countries generating revenue (excluding the UK), including insights into the quantity of items sold. This information will be valuable for making strategic decisions.
+ - Emphasize the top 10 customers based on revenue, focusing on strategies to retain these customers.
+ - Identify regions with a strong demand for products across all countries (excluding the UK) to make well-informed decisions for expanding our business.
 
 ## Methodology:
 
 **1.Data Cleaning**:
- - Raw data was cleaned to ensure accuracy and completeness.
- - Key steps included removing records from the quantity column in the use of filtering the quantity should not be below 1 unit and the same process at the unit price column in that price should not be below $0. and separating date and time for granularity, addressing null values in the customer id column.
+- I cleaned up the raw data to make sure it's accurate and complete. This involved a few important steps:
+  - I filtered the quantity column to remove records where the quantity was below 1 unit.
+  - Similarly, in the unit price column, I filtered out records where the price was below $0.
+  - I also took care of any missing values in the customer ID column to ensure completeness and reliability of the data.
    
  **2.Analysis:**
    - Conducted a comprehensive analysis addressing four critical business questions.
-      - Identified seasonal revenue trends, showcasing exceptional growth from September to November.
-      - Unveiled high-revenue countries - Netherlands, Ireland, Germany, and France with tailored strategies for market enhancement.
-      - Explored top 10 customers, emphasizing low variation and proposing a customer satisfaction strategy.
-      - Discovered regions with high demand, urging targeted expansions for a potential 25% increase in overall revenue.
+      - Identified seasonal revenue trends, showcasing exceptional growth from **September to November**.
+      - Identified top-performing countries in terms of revenue – **Netherlands, Ireland, Germany, and France**. Proposed specific strategies to improve their market positions.
+      - Explored the top 10 customers, noting low variation and suggesting a strategy to enhance customer satisfaction.
+      - Discovered regions with high product demand, recommending focused expansions that could potentially lead to a **25%** increase in overall revenue.
 
 **Visualization using Power BI:**
  - Created a suite of visualizations for effective communication.
@@ -45,31 +47,31 @@ Identified seasonal revenue trends, showcasing exceptional growth from **Septemb
 |![Screenshot (254)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/65d0f5a9-f434-424d-a607-1225fba5ea40)|
 |---------------|
 
-Unveiled high-revenue countries - **Netherlands, Ireland, Germany, France** with tailored strategies for market enhancement.
+Identified top-performing countries in terms of revenue – **Netherlands, Ireland, Germany, and France**. Proposed specific strategies to improve their market positions.
 
 |![Screenshot (256)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/dfcb698d-3d91-499e-aa38-0bc4e19a5496)|
 |---------------|
 
-Explored top 10 customers, emphasizing low variation and proposing a customer satisfaction strategy.
+Explored the top 10 customers, noting low variation and suggesting a strategy to enhance customer satisfaction.
 
 |![Screenshot (257)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/0a27365e-e681-48bb-bcdb-a61ef9216d91)|
 |---------------|
 
-Discovered regions with high demand, urging targeted expansions for a potential 25% increase in overall revenue.
+Discovered regions with high product demand, recommending focused expansions that could potentially lead to a **25%** increase in overall revenue.
 
 **4. Results Derivation:**
-- Quantified impacts were derived from the analysis.
-  - Seasonal trends analysis proposed a 15% potential increase in revenue through target marketing.
-  - High revenue country focus could result in a 20% increase in market share.
-  - A customer satisfaction strategy might contribute to a 10% increase in customer retention.
-  - Targeted expansion into high-demand regions presented a potential 25% increase in overall revenue.
-
+- I translated the analysis findings into measurable impacts:
+  - Analyzing seasonal trends suggested a potential **15%** increase in revenue by using targeted marketing during specific times.
+  - Focusing on high-revenue countries might lead to a **20%** increase in market share.
+  - Implementing a customer satisfaction strategy could contribute to a **10%** increase in customer retention.
+  - Targeted expansion into regions with high product demand presented a promising opportunity for a potential **25%** increase in overall revenue.
+  
 **5. Expansion Strategies:**
-- Formulated clear and quantified expansion strategies based on the analysis results.
+- I developed specific and measurable expansion plans derived from the analysis:
   - Targeted marketing during peak seasons for optimal revenue generation.
   - Focused efforts on high-revenue countries for increased market presence.
-  - Prioritized customer satisfaction initiatives for improved retention.
-  - Strategically expanded into regions with high demand for accelerated growth.
+  - Improve customer retention through prioritized customer satisfaction initiatives.
+  - Achieve accelerated growth by strategically expanding into regions with high product demand.
  
 **6.View Full Dashboard:**
 
