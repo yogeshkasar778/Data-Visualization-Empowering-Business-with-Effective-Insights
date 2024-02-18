@@ -4,12 +4,12 @@
 |--------------|
 
 ## Overview:
-In this project, I conducted a comprehensive analysis to unlock strategic insights for online retail expansion, aiming to provide valuable insights to support strategic decision-making. The structured approach involved cleaning raw data, conducting a thorough analysis, creating impactful visualizations, deriving actionable results, and finally, formulating strategic expansion strategies.
+In this project. I worked on a project where I looked at a lot of information to help online retail grow. The goal was to find important ideas that could help make smart decisions. I organized the work by cleaning up the raw data, doing a deep analysis, creating impactful visualizations, finding useful results, and then coming up with good plans for expanding online retail.
 
-  - **Goal**: The goal is to empower stakeholders with actionable insights, guiding informed decisions for strategic expansion in the online retail sector.
+  - **Objective:** The aim is to give important information to the people involved, helping them make smart decisions for growing online stores. This will guide them in making well-informed choices for expanding in the online retail industry.
   - **Key Insights**:
-    - The data-driven approach uncovers distinctive seasonal patterns, influencing targeted sales strategies.
-    - Strategic focus on specific countries and customer segments has the potential for substantial improvements in both revenue and market share.
+    - Using data to guide decisions reveals unique patterns in different seasons, which can affect how we sell things.
+    - Concentrating our efforts on certain countries and types of customers could lead to significant boosts in both earnings and the portion of the market we capture.
 
 ## Data Source:
   Here's the [Online Retail sales raw data](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/blob/main/Task%201%20Framing%20the%20Business%20Scenario/Online%20Retail.xlsx)
