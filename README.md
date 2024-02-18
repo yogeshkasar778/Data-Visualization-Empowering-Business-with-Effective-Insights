@@ -1,4 +1,4 @@
-# Data Visualization: Empowering Business with Effective Insights
+# Data Visualization: Empowering Business with Effective Insights (Strategic Insights for online retail expansion)
 
 |![Add a heading](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/3bafbaac-5b78-46f4-9bb7-7b07bb1a3bea)|
 |--------------|
