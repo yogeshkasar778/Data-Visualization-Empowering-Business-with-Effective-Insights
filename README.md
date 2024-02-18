@@ -1,5 +1,8 @@
 # Data Visualization: Empowering Business with Effective Insights
 
+|![Add a heading](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/3bafbaac-5b78-46f4-9bb7-7b07bb1a3bea)|
+|--------------|
+
 ## Overview:
 In this project, I conducted a comprehensive analysis to unlock strategic insights for online retail expansion, aiming to provide valuable insights to support strategic decision-making. The structured approach involved cleaning raw data, conducting a thorough analysis, creating impactful visualizations, deriving actionable results, and finally, formulating strategic expansion strategies.
 
