@@ -10,3 +10,6 @@ In this project, I conducted a comprehensive analysis to unlock strategic insigh
 
 ## Data Source:
   Here's the [Online Retail sales raw data](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/blob/main/Task%201%20Framing%20the%20Business%20Scenario/Online%20Retail.xlsx)
+
+## Business Problem:
+ - Analyze 2011 monthly revenue data for seasonal
